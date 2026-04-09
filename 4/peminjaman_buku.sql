@@ -3,10 +3,6 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
-<<<<<<< HEAD
--- Waktu pembuatan: 08 Apr 2026 pada 18.18
--- Versi server: 10.4.32-MariaDB
--- Versi PHP: 8.2.12
 =======
 -- Generation Time: Apr 08, 2026 at 11:42 AM
 -- Server version: 10.4.32-MariaDB
@@ -56,9 +52,6 @@ INSERT INTO `anggota` (`id_anggota`, `id_user`, `nama`, `kelas`, `no_hp`, `statu
 --
 -- Struktur dari tabel `buku`
 =======
--- Table structure for table `buku`
->>>>>>> a13656bef7351b08e367b92f1e8f752c4dd620fa
---
 
 CREATE TABLE `buku` (
   `id_buku` int(11) NOT NULL,
